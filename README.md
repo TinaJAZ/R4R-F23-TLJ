@@ -1,2 +1,2 @@
 # R4R-F23-TLJ
-My repo for Fall R4R for Capstone
+My repo for Fall R4R FOSS Capstone
